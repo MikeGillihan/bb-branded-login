@@ -69,7 +69,7 @@ add_action( 'login_enqueue_scripts', 'bbbl_enqueue_styles', 10 );
  * Enqueue Login style
  */
 function bbbl_enqueue_styles() {
-	wp_enqueue_style( 'login-logo', PWP_BBBL_URL . 'login-logo.css', true );
+	wp_enqueue_style( 'login-logo', PWP_BBBL_URL . 'assets/css/login-logo.css', true );
 }
 
 add_action( 'login_enqueue_scripts', 'bbbl_enqueue_scripts', 20 );
@@ -77,7 +77,7 @@ add_action( 'login_enqueue_scripts', 'bbbl_enqueue_scripts', 20 );
  * Enqueue Login script
  */
 function bbbl_enqueue_scripts() {
-	wp_enqueue_script( 'login-logo', PWP_BBBL_URL . 'login-logo.js', array( 'jquery' ), '1.0.0' );
+	wp_enqueue_script( 'login-logo', PWP_BBBL_URL . 'assets/js/login-logo.js', array( 'jquery' ), '1.0.0' );
 }
 
 add_filter( 'login_headerurl', 'bbbl_login_logo_link' );
