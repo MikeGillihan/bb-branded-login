@@ -7,7 +7,9 @@ Tested up to: 4.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily add the Beaver Builder theme header logo to the WordPress login page.
+Easily add the Beaver Builder Theme's header logo to the WordPress login page.
+
+***This plugin will not display your logo unless the Beaver Builder Theme is installed and configured.***
 
 == Installation ==
 

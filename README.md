@@ -1,7 +1,7 @@
 # Beaver Builder Branded Login
 Requires the Beaver Builder theme.
 
-Easily add the Beaver Builder theme header logo to the WordPress login page.
+Easily add the Beaver Builder Theme's header logo to the WordPress login page.
 
 == Installation ==
 
