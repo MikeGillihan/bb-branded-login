@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Beaver Builder Branded Login
  * Plugin URI: http://purposewp.com/
- * Description: Easily add your site logo to the WordPress login page.
+ * Description: Easily add the Beaver Builder theme header logo to the WordPress login page.
  * Version: 1.0.0
  * Author: Michael Gillihan
  * Author URI: http://mikegillihan.com/
