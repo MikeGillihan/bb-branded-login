@@ -1,0 +1,8 @@
+h1 a {
+    height: auto !important;
+    width: 100% !important;
+    margin-bottom: 20px;
+    background-image: none !important;
+    background-size: auto !important;
+    text-indent: 0 !important;
+}
